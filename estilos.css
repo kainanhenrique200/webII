@@ -1,6 +1,6 @@
-h1{
+#wik{
+color: rgb(29, 27, 27);
 text-align: center;
-color: rgb(0, 0, 0);
 }
 .prin{
  
@@ -13,10 +13,10 @@ color: rgb(0, 0, 0);
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    
+  margin: 60px;
 }
 #ca{
-    background-color: aqua;
+    background-color: rgb(89, 212, 212);
 }
 
 .capa{
@@ -38,5 +38,13 @@ body{
 }
 #Topo{
     text-align: center;
+}
 
+
+#dois{
+  text-align: center;
+}
+tbody{
+  background-color: rgba(240, 239, 224, 0.705);
+  text-align: left;
 }
