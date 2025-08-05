@@ -1,0 +1,41 @@
+h1{
+text-align: center;
+color: rgb(0, 0, 0);
+}
+.prin{
+ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px; 
+  max-width: 100%;
+  height: auto;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(233, 233, 203);
+}
+#ca{
+    background-color: aqua;
+}
+
+.capa{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px; 
+  max-width: 100%;
+  height: auto;
+    
+}
+.cavale{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px; 
+  max-width: 100%;
+  height: auto;  
+}
+#Topo{
+    text-align: center;
+}
