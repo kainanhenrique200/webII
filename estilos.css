@@ -13,7 +13,7 @@ color: rgb(0, 0, 0);
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(233, 233, 203);
+    
 }
 #ca{
     background-color: aqua;
@@ -38,4 +38,5 @@ body{
 }
 #Topo{
     text-align: center;
+
 }
