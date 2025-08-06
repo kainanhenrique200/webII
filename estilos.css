@@ -14,6 +14,8 @@ text-align: center;
 body{
     font-family: Arial, Helvetica, sans-serif;
   margin: 55px;
+ 
+
 }
 #ca{
     background-color: rgb(89, 212, 212);
@@ -38,6 +40,7 @@ body{
 }
 #Topo{
     text-align: center;
+    color: rgb(192, 34, 34);
 }
 
 
@@ -48,4 +51,7 @@ tbody{
   background-color: rgba(240, 239, 224, 0.705);
   text-align: left;
 }
-
+p{
+text-indent: 1.5rem;
+text-align: justify;
+}
