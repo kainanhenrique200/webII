@@ -13,9 +13,8 @@ text-align: center;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-  margin: 55px;
- 
-
+    margin: 55px;
+  
 }
 #ca{
     background-color: rgb(89, 212, 212);
@@ -54,4 +53,16 @@ tbody{
 p{
 text-indent: 1.5rem;
 text-align: justify;
+}
+div a{
+  color: black;
+}
+div li{
+  font-size: 35px;
+}
+.lis{
+  border: 1px solid;
+}
+th{
+  border: 1px solid;
 }
