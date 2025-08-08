@@ -1,5 +1,5 @@
 #wik{
-color: rgb(29, 27, 27);
+text-decoration: underline;
 text-align: center;
 }
 .prin{
@@ -13,11 +13,15 @@ text-align: center;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    margin: 55px;
-  
+  margin: 55px;
+  text-indent: 1.5rem;
+ 
+
 }
 #ca{
     background-color: rgb(89, 212, 212);
+    font-size: 30px;
+    text-align: center;
 }
 
 .capa{
@@ -29,7 +33,7 @@ body{
   height: auto;
     
 }
-.cavale{
+.img_cavaleiros{
    display: block;
   margin-left: auto;
   margin-right: auto;
@@ -43,7 +47,7 @@ body{
 }
 
 
-#dois{
+#principais_topicos{
   text-align: center;
 }
 tbody{
@@ -54,15 +58,19 @@ p{
 text-indent: 1.5rem;
 text-align: justify;
 }
-div a{
+.ta{
+  font-family: initial;
+}
+#veja_mais{
+  text-align: center;
+}
+.link a{
   color: black;
+  font-size: 40px;
 }
-div li{
-  font-size: 35px;
-}
-.lis{
-  border: 1px solid;
-}
-th{
+table {
+  width: 100%; 
+  max-width: 100px; 
+  height: auto;
   border: 1px solid;
 }
